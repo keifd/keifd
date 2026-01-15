@@ -5,7 +5,7 @@ My name is James, and I’m from Canada. I completed my bachelor’s degree at t
 
 - 🌱 Currently learning: Full-stack development, data structures, and algorithms.  
 - 🛠️ Past experience: Personal and tech projects developed during university.  
-- 🔍 Interested in: Software development, AI, and game development.
+- 🔍 Interested in: AI, Software Engineering and game development.
 
 LeetCode: https://leetcode.com/u/keifd/
 
