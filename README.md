@@ -37,6 +37,8 @@ LeetCode: https://leetcode.com/u/keifd/
 
 ## 📫 Let's Connect
 
-- 📧 Email: hahe0080@uni.sydney.edu.au   
+- 📧 Email: hahe0080@uni.sydney.edu.au  
+- 💼 LinkedIn: [James He](https://www.linkedin.com/in/james-he-b90615382/)  
 - 📱 Phone: +61 424 855 889
+
 
