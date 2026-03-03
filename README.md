@@ -1,44 +1,17 @@
-### Hi there 👋  
-My name is James, and I’m from Canada. I completed my bachelor’s degree at the University of British Columbia. Currently, I’m a postgraduate Computer Science student at the University of Sydney (2025–2027), passionate about coding.
+<h2 align="center">👋 Hi there! I'm James</h2>
 
-📍 Located in Sydney, Australia 🦘
+<div align="center">
+  
+[![LeetCode](https://img.shields.io/badge/-keifd-orange?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/keifd/)
+[![LinkedIn](https://img.shields.io/badge/-James%20He-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-he-b90615382/)
+[![GitHub](https://img.shields.io/badge/-JamesHe-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Email](https://img.shields.io/badge/-hahe0080%40uni.sydney.edu.au-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hahe0080@uni.sydney.edu.au)
+[![Phone](https://img.shields.io/badge/-+61%20424%20855%20889-brightgreen?style=flat-square)](#)
 
-- 🌱 Currently learning: Full-stack development, data structures, and algorithms.  
-- 🛠️ Past experience: Personal and tech projects developed during university.  
-- 🔍 Interested in: AI, Software Engineering and game development.
+</div>
 
-LeetCode: https://leetcode.com/u/keifd/
-
----
-
-## 🧰 Tools I've worked with
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Luau](https://img.shields.io/badge/-Luau-000000?style=flat-square&logo=roblox&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![OpenRocket](https://img.shields.io/badge/-OpenRocket-FF6600?style=flat-square&logo=rocket&logoColor=white)
-![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white)
-![Onshape](https://img.shields.io/badge/-Onshape-1B72BE?style=flat-square&logo=onshape&logoColor=white)
+Postgraduate Computer Science student at the University of Sydney, specializing in AI & Machine Learning. I like building applications and games.
 
 
-
----
-
-## 📫 Let's Connect
-
-- 📧 Email: hahe0080@uni.sydney.edu.au  
-- 💼 LinkedIn: [James He](https://www.linkedin.com/in/james-he-b90615382/)  
-- 📱 Phone: +61 424 855 889
 
 
