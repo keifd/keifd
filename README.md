@@ -11,7 +11,7 @@
 
 </div>
 
-Postgraduate Computer Science student at the University of Sydney, specializing in AI & Machine Learning. I like building applications and games.
+Postgraduate Computer Science student at the University of Sydney, specializing in AI & Machine Learning. I like building applications and games. Previous: BSc@UBC.
 
 
 
